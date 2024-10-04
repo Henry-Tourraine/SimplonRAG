@@ -1,0 +1,10 @@
+logging
+fastapi
+pydantic
+pandas
+bs4
+requests
+langchain_openai
+langchain
+langchain_core
+langchain_community
